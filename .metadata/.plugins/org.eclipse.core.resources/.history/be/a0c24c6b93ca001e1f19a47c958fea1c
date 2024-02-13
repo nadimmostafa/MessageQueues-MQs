@@ -1,0 +1,5 @@
+package org.nadim.messageScheduler;
+
+public class MessageScheduler {
+
+}

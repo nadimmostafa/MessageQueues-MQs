@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;01.SpringCloud-ActiveMQConsumerApp&apos; to &apos;02.SpringCloud-ActiveMQConsumerApp&apos;" description="Rename resource &apos;01.SpringCloud-ActiveMQConsumerApp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/01.SpringCloud-ActiveMQConsumerApp" name="02.SpringCloud-ActiveMQConsumerApp" stamp="1707845334900" updateReferences="true"/>
+</session>
